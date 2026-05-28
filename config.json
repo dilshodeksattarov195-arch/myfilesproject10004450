@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersrocess",
+        "uuid": 9976900,
+        "checksum": "5yea2c"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
